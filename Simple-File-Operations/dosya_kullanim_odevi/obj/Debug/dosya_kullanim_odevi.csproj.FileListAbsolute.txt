@@ -1,0 +1,20 @@
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\bin\Debug\dosya_kullanim_odevi.exe.config
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\bin\Debug\dosya_kullanim_odevi.exe
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\bin\Debug\dosya_kullanim_odevi.pdb
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.csprojAssemblyReference.cache
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.Form1.resources
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.Properties.Resources.resources
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.csproj.GenerateResource.cache
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.csproj.CoreCompileInputs.cache
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.exe
+D:\Seyit\Ders Notları\VeriYapılarıBahar2020\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.pdb
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\bin\Debug\dosya_kullanim_odevi.exe.config
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\bin\Debug\dosya_kullanim_odevi.exe
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\bin\Debug\dosya_kullanim_odevi.pdb
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.csprojAssemblyReference.cache
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.Form1.resources
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.Properties.Resources.resources
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.csproj.GenerateResource.cache
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.csproj.CoreCompileInputs.cache
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.exe
+D:\ödev\dosya_kullanim_odevi\dosya_kullanim_odevi\obj\Debug\dosya_kullanim_odevi.pdb
